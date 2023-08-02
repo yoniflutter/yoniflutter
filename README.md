@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoniflutter&label=Profile%20views&color=0e75b6&style=flat" alt="yoniflutter" /> </p>
 
-- 🔭 I’m currently working on **E-Commerce App**
+- 🔭 I’m currently working on **Flutter, React, Nodejs, Mongodb, Mysql and Express**
 
 - 🌱 I’m currently learning **Swift**
 
